@@ -3,4 +3,7 @@ Zadania z kursu e-biznes
 Zadanie 1 Docker
 3.0 Instalacja Python 3.8 https://github.com/ShabazzKing/ebiznes2024/commit/9e989ee514481498a8d838eb827f1fe0f9c5acf5
 3.5 Instalacja Java 8 i Kotlin https://github.com/ShabazzKing/ebiznes2024/commit/68a47470ee58727e0fc75fda50e4b368dbe74b1c
+4.0 oraz 4.5 Instalacja Gradle, JDBC SQLite oraz uruchomienie Hello World https://github.com/ShabazzKing/ebiznes2024/commit/f15c3dff45f3235a1c47767caa3b522f2cea8bf0
+5.0 Konfiguracja docker-compose https://github.com/ShabazzKing/ebiznes2024/commit/4de8354e38ed5add8bc8d01ed7775860402c61f3
 Kod: zadanie_1
+Obraz Docker: https://hub.docker.com/repository/docker/shabazzking/ebiznes/general
